@@ -6,11 +6,11 @@ Herramientas utilizadas
 SQL Server
 SQL consultas
 
-Análisis realizado
-- Total de ventas
+Resultados clave
+- Total de ventas: 450
 - Ventas por producto
 - Ventas por cliente
-- Participación porcentual por cliente
+- Participación porcentual por cliente. Cliente top: Juan (48.8% del total)
 
 Insights
 - El producto más vendido es "Polo"
@@ -19,3 +19,4 @@ Insights
 
   Conclusión
   Se recomienda enfocar estratégias comerciales en los productos de mayor rotación y en clientes con mayor participación
+
