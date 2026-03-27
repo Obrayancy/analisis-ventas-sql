@@ -1,4 +1,4 @@
-# analisis-ventas-sql
+# analisis-ventas-sql-server
 Análisis de ventas usando SQL (consultas, KPIs y segmentación de Clientes)
 Objetivo
 Analizar el comportamiento de ventas de una empresa para identificar productos más vendidos, clientes clave y distribución de ingresos.
